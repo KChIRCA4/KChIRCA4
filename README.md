@@ -1,4 +1,2 @@
 # Quien soy??
-Hola!!
--Estudiante, programador en proceso...
--Me gusta la lectura y jugar
+Hola!! soy estudiante de ingenieria en software, programador en proceso, me gusta la lectura, jugar y la dr pepper
