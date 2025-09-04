@@ -1,2 +1,4 @@
-# Titulo
-Hola, soy homelo chino, soy homelo pelo chino
+# Quien soy??
+Hola!!
+-Estudiante, programador en proceso...
+-Me gusta la lectura y jugar
